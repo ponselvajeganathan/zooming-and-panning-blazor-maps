@@ -6,7 +6,7 @@ This sample demonstrates zooming and panning functionality using the Syncfusion 
 
 **Example**: https://blazor.syncfusion.com/demos/maps/zooming?theme=bootstrap5  
 
-**Documentation**: https://blazor.syncfusion.com/documentation/maps/user-interactions#zooming  
+**Documentation**: https://help.syncfusion.com/chart-sdk/blazor/maps/user-interactions#zooming  
 
 ## Key Features
 
