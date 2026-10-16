@@ -49,10 +49,6 @@ dotnet restore
 dotnet run
 ```
 
-## Project Structure
-
-`Client/Pages/Index.razor` — Contains the primary Syncfusion Maps implementation, zoom settings, panning configuration, toolbar customization, and interaction logic.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
